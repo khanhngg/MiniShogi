@@ -1,8 +1,0 @@
---- /Users/khanhnguyen/MiniShogi/test/myOut/silverPromotion.out	2018-02-08 13:47:49.000000000 -0800
-+++ /Users/khanhnguyen/MiniShogi/test/Public/silverPromotion.out	2017-10-13 23:53:06.000000000 -0700
-@@ -1,4 +1,4 @@
--UPPER player action: move d2 d1 promoted
-+UPPER player action: move d2 d1 promote
- 5 |__|+s|__|__| K|
- 4 |__|__|__|__|__|
- 3 |__|__|__|__|__|

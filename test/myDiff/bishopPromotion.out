@@ -1,8 +1,0 @@
---- /Users/khanhnguyen/MiniShogi/test/myOut/bishopPromotion.out	2018-02-08 13:47:34.000000000 -0800
-+++ /Users/khanhnguyen/MiniShogi/test/Public/bishopPromotion.out	2017-10-13 18:28:32.000000000 -0700
-@@ -1,4 +1,4 @@
--UPPER player action: move d2 c1 promoted
-+UPPER player action: move d2 c1 promote
- 5 |__|__|+b|__| K|
- 4 |__|__|__|__|__|
- 3 |__|__|__|__|__|

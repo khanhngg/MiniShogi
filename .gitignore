@@ -28,6 +28,6 @@ out/
 .DS_Store
 
 # Testing files
-myDiff/
-myOut/
+**myDiff/
+**myOut/
 test/*.sh

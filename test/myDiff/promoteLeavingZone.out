@@ -1,8 +1,0 @@
---- /Users/khanhnguyen/MiniShogi/test/myOut/promoteLeavingZone.out	2018-02-08 13:47:42.000000000 -0800
-+++ /Users/khanhnguyen/MiniShogi/test/Public/promoteLeavingZone.out	2017-10-13 23:46:10.000000000 -0700
-@@ -1,4 +1,4 @@
--UPPER player action: move d1 e2 promoted
-+UPPER player action: move d1 e2 promote
- 5 |__|__|__|__| K|
- 4 |+s|__|__|__|__|
- 3 |__|__|__|__|__|

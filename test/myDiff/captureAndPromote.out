@@ -1,8 +1,0 @@
---- /Users/khanhnguyen/MiniShogi/test/myOut/captureAndPromote.out	2018-02-08 13:47:34.000000000 -0800
-+++ /Users/khanhnguyen/MiniShogi/test/Public/captureAndPromote.out	2017-10-13 18:35:48.000000000 -0700
-@@ -1,4 +1,4 @@
--lower player action: move c1 c5 promoted
-+lower player action: move c1 c5 promote
- 5 |__|__|+r| G| K|
- 4 |__|__|__|__|__|
- 3 |__|__|__|__|__|
