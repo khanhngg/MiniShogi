@@ -1,0 +1,8 @@
+--- /Users/khanhnguyen/MiniShogi/test/myOut/rookPromotion.out	2018-02-08 13:47:48.000000000 -0800
++++ /Users/khanhnguyen/MiniShogi/test/Public/rookPromotion.out	2017-10-13 23:51:56.000000000 -0700
+@@ -1,4 +1,4 @@
+-UPPER player action: move d3 d1 promoted
++UPPER player action: move d3 d1 promote
+ 5 |__|+r|__|__|__|
+ 4 |__|__|__|__| K|
+ 3 |__|__|__|__|__|

@@ -1,0 +1,21 @@
+--- /Users/khanhnguyen/MiniShogi/test/myOut/promotedCaptureDrop.out	2018-02-08 13:47:43.000000000 -0800
++++ /Users/khanhnguyen/MiniShogi/test/Public/promotedCaptureDrop.out	2017-10-13 23:38:38.000000000 -0700
+@@ -1,12 +1,12 @@
+-lower player action: drop p b1
+-5 |__|__|__|__| K|
++UPPER player action: drop p b5
++5 |__| P|__|__| K|
+ 4 |__|__|__|__|__|
+ 3 |__|__|__|__|__|
+ 2 |__|__|__|__|__|
+-1 | k|__|__|__|__|
++1 | k| p|__|__|__|
+     a  b  c  d  e
+ 
+-Captures UPPER: G S B R P
+-Captures lower: r b s g p
++Captures UPPER: G S B R
++Captures lower: r b s g
+ 
+-UPPER player wins.  Illegal move.
++lower> 

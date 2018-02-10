@@ -1,0 +1,8 @@
+--- /Users/khanhnguyen/MiniShogi/test/myOut/pawnPromotion.out	2018-02-08 13:47:42.000000000 -0800
++++ /Users/khanhnguyen/MiniShogi/test/Public/pawnPromotion.out	2017-10-13 23:37:14.000000000 -0700
+@@ -1,4 +1,4 @@
+-UPPER player action: move e2 e1 promoted
++UPPER player action: move e2 e1 promote
+ 5 |+p|__|__|__| K|
+ 4 |__|__|__|__|__|
+ 3 |__|__|__|__|__|
